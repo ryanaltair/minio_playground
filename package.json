@@ -1,0 +1,26 @@
+{
+  "name": "minio_playground",
+  "version": "1.0.0",
+  "description": "playground for minio",
+  "main": "index.js",
+  "scripts": {
+
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanaltair/minio_playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanaltair/minio_playground/issues"
+  },
+  "homepage": "https://github.com/ryanaltair/minio_playground#readme",
+  "dependencies": {
+    "minio": "^7.0.13"
+  },
+  "devDependencies": {
+    "@types/minio": "^7.0.5"
+  }
+}
